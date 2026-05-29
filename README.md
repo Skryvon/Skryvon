@@ -683,9 +683,9 @@ I approach open-source contributions with three principles:
 
 | Platform | Content | Link |
 |:--:|:--|:--:|
-| ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | 3D animations, motion design, tech tutorials | [Channel →](https://youtube.com/@Skryvon) |
-| ![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white) | UI/UX case studies, brand identities, design systems | [Portfolio →](https://behance.net/Skryvon) |
-| ![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white) | 3D renders, concept art, Blender showcases | [Gallery →](https://artstation.com/Skryvon) |
+| ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | 3D animations, motion design, tech tutorials | [Not Available →](https://youtube.com/) |
+| ![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white) | UI/UX case studies, brand identities, design systems | [Not Available →](https://behance.net/) |
+| ![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white) | 3D renders, concept art, Blender showcases | [Not Available →](https://artstation.com/) |
 
 </div>
 
@@ -874,9 +874,9 @@ Security audits, penetration testing, code review for vulnerabilities, API secur
 [![GitHub](https://img.shields.io/badge/GitHub-Skryvon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skryvon)
 [![X / Twitter](https://img.shields.io/badge/X_(Twitter)-@Skryvon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Skryvon)
 [![Discord](https://img.shields.io/badge/Discord-Skryvon-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Skryvon)
-[![Email](https://img.shields.io/badge/Email-skryvon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skryvon@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/Skryvon)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Skryvon)
+[![Email](https://img.shields.io/badge/Email-skryvon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xskryvon@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 
 </div>
 
@@ -910,6 +910,6 @@ Security audits, penetration testing, code review for vulnerabilities, API secur
 
 <br/>
 
-**© 2025 Skryvon · All rights reserved.**
+**© 2026 Skryvon · All rights reserved.**
 
 </div>
