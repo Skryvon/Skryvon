@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <a href="https://github.com/Skryvon">
-  <img src="https://i.ibb.co/6c5tpLrQ/my-header.png" alt="Skryvon Banner" width="100%" />
+  <img src="https://i.ibb.co/KcvmzH3j/Skry-header.png" alt="Skryvon Banner" width="100%" />
 </a>
 
 <br><br>
