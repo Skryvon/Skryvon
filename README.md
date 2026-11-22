@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Skryvon: Full-Stack, Systems, Security, 3D" width="100%">
+<img src="banner.svg" alt="Skryvon: Full-Stack, Systems, Security, 3D" width="100%">
 
 <a href="https://github.com/Skryvon">
   <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=32&duration=2600&pause=900&color=E62429&center=true&vCenter=true&width=800&height=56&lines=FULL-STACK+DEVELOPER;SYSTEMS+ENGINEER;SECURITY+RESEARCHER;3D+ARTIST+IN+BLENDER" alt="Role typing animation">
