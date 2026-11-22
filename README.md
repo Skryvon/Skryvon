@@ -60,7 +60,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Skryvon&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" width="100%">
+<img src="https://github-trophies.vercel.app/?username=Skryvon&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" width="100%">
 
 </div>
 
